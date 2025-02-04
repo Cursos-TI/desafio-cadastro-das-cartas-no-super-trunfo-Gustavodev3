@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main () {
+   
    char código[4]; // Códico da cidade (ex: A01)
    int população;
    float área; // em km²
